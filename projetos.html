@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Projetos — Biblioteca Solidária</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/script.js" defer></script>
+</head>
+<body>
+  <header class="site-header" role="banner">
+    <div class="container header-inner">
+      <a href="index.html" class="brand">
+        <img src="images/logo.webp" alt="Logo" class="logo">
+        <span class="brand-name">Biblioteca Solidária</span>
+      </a>
+      <button class="nav-toggle" aria-controls="primary-navigation" aria-expanded="false" aria-label="Abrir menu" id="navToggle2">
+        <span class="hamburger" aria-hidden="true"></span>
+      </button>
+      <nav id="primary-navigation" class="main-nav" role="navigation">
+        <ul class="nav-links" role="menubar">
+          <li role="none"><a role="menuitem" href="index.html">Início</a></li>
+          <li role="none"><a role="menuitem" href="projetos.html" aria-current="page">Projetos Sociais</a></li>
+          <li class="dropdown" role="none">
+            <a href="#" class="dropbtn" aria-haspopup="true">Mais ▾</a>
+            <ul class="dropdown-menu" aria-label="submenu" role="menu">
+              <li role="none"><a role="menuitem" href="index.html#sobre">Sobre</a></li>
+              <li role="none"><a role="menuitem" href="index.html#contato">Contato</a></li>
+            </ul>
+          </li>
+          <li role="none"><a role="menuitem" class="cta" href="cadastro.html">Cadastro</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container grid">
+    <h1 class="page-title">Nossos Projetos</h1>
+    <section class="projects-grid grid-col-12">
+      <article class="card project-card grid-col-4">
+        <img src="images/projeto1.jpg" alt="Voluntários organizando livros" class="card-img">
+        <h2>Doe um Livro</h2>
+        <p>Campanha permanente de arrecadação de livros para escolas e comunidades.</p>
+        <span class="badge">Campanha</span>
+      </article>
+
+      <article class="card project-card grid-col-4">
+        <img src="images/projeto2.jpg" alt="Oficina de leitura" class="card-img">
+        <h2>Oficinas</h2>
+        <p>Oficinas de leitura e escrita criativa para crianças.</p>
+        <span class="badge">Oficina</span>
+      </article>
+
+      <article class="card project-card grid-col-4">
+        <img src="images/projeto3.jpg" alt="Entrega de livros" class="card-img">
+        <h2>Distribuição</h2>
+        <p>Distribuição de livros em comunidades rurais.</p>
+        <span class="badge">Distribuição</span>
+      </article>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>&copy; <span id="year2"></span> Biblioteca Solidária</p>
+    </div>
+  </footer>
+</body>
+</html>
