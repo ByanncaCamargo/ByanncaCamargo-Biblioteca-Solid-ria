@@ -1,41 +1,65 @@
-# Biblioteca Solidária
+Etapa Final – Conclusão do Projeto
 
-Projeto de uma **biblioteca solidária**, desenvolvido como atividade prática de HTML5 e CSS3.  
-Esta versão foca na **interface visual profissional, responsiva e acessível**, com design consistente e funcionalidades completas.
+✅ Atualizações realizadas
 
----
+Organização das pastas e arquivos (HTML, CSS, JS e imagens);
 
-# Tech Stack Utilizadas
+Melhoria na estrutura e no layout do site;
 
-- HTML5 semântico  
-- CSS3 moderno (Flexbox e Grid)  
-- JavaScript para interatividade (menu hambúrguer, máscaras de formulário)  
-- Google Fonts: [Inter](https://fonts.google.com/specimen/Inter)  
+Implementação de responsividade e ajustes visuais;
 
----
+Criação de Issues e Milestones para acompanhamento das tarefas;
 
-## Sistema de Design
+Registro de commits descritivos e organizados;
 
-- **Paleta de cores**: tons suaves de azul, branco e cinza claro, garantindo boa leitura e conforto visual.  
-- **Tipografia**: fonte Inter, com hierarquia de 5 tamanhos diferentes.  
-- **Espaçamento modular**: 8px, 16px, 24px, 32px, 48px, 64px.  
-- **Grid**: 12 colunas para organizar o layout de forma consistente e responsiva.  
+Atualização completa do README com as informações da etapa final;
 
----
+Verificação de acessibilidade e contraste nas páginas.
 
-## Funcionalidades
 
-- **Menu responsivo** com dropdown e hambúrguer para telas pequenas  
-- **Layout flexível** com CSS Grid (estrutura principal) e Flexbox (componentes internos)  
-- **Cards de projetos** com informações sobre voluntariado e doações  
-- **Formulário de cadastro** com:
-  - Campos: Nome completo, E-mail, CPF, Telefone, Data de nascimento, Endereço, CEP, Cidade e Estado  
-  - Máscaras de entrada: CPF, Telefone, CEP  
-  - Validação nativa HTML5 e feedback visual  
-- **Imagens otimizadas** para web e responsivas  
-- **Componentes interativos**: botões com hover/focus/active, alertas de feedback, tags e emblemas  
+🧭 Milestone
 
----
+Nome: Etapa Final – Biblioteca Solidária
+Objetivo: Concluir e documentar o projeto com práticas de versionamento, acessibilidade e deploy.
 
-## Estrutura do Projeto
+
+🧩 Issues Criadas
+
+1. Ajustes de contraste e acessibilidade.
+
+
+2. Melhorias na visualização mobile.
+
+
+3. Atualização do README final.
+
+
+
+
+💾 Commits Principais
+
+feat: melhorias de responsividade e acessibilidade
+
+style: ajustes no layout e contraste
+
+docs: atualização final do README
+
+
+
+
+🌐 Deploy
+
+O site está disponível publicamente em:
+👉 https://byanncacamargo.github.io/Biblioteca-Solidaria/
+
+
+
+👩‍💻 Desenvolvido por
+
+Byannca Camargo
+Projeto individual – Desenvolvido com HTML5, CSS3 e JavaScript.
+
+
+
+✨ Biblioteca Solidária: compartilhando conhecimento de forma simples, acessível e colaborativa. 💖
 
